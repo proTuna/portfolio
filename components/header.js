@@ -8,7 +8,7 @@ export default function Header() {
                 <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
                     <Link href="/">
                         <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-                        <span className="ml-3 text-xl">Tunaman 포트폴리오</span>
+                        <span className="ml-3 text-xl">Dongwon Portfolio</span>
                         </a>
                     </Link>
 

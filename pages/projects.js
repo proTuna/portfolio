@@ -10,9 +10,9 @@ export default function Projcets({ projects }) {
         <Layout>
             <div className="flex flex-col items-center justify-center min-h-screen px-6 mb-10">
                 <Head>
-                    <title>포트폴리오</title>
+                    <title>Portfolio</title>
                     <meta name="description" content="포트폴리오" />
-                    <link rel="icon" href="/favicon.ico" />
+                    <link rel="icon" href="/tuna-can.png" />
                 </Head>
                 <h1 className="text-4xl font-bold sm:text-6xl">
                     총 프로젝트 : 
