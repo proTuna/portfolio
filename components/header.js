@@ -23,7 +23,7 @@ export default function Header() {
                             <a className="mr-5 hover:text-gray-900">프로젝트</a>
                         </Link>
 
-                        <a href='https://velog.io/@tunaman95' target='_blank' className="mr-5 hover:text-gray-900">블로그</a>
+                        <a href='https://velog.io/@tunaman95' className="mr-5 hover:text-gray-900">블로그</a>
 
                     </nav>
                     {/*다크모드 토글 버튼 작업해야함 */}
